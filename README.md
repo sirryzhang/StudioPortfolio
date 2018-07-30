@@ -1,2 +1,2 @@
-# StudioPortfolio
+# Studio Portfolio
 Template Collections
